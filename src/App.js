@@ -16,6 +16,7 @@ function App() {
           href="https://birdeye.so/token/?chain=solana"
           target="_blank"
           rel="noopener noreferrer"
+          style={{pointerEvents: "none"}}
         >
           Trade BBC (Coming Soon!)
         </a>
